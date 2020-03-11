@@ -5,3 +5,5 @@ Maintenant j'écris une autre phrase.
 Un problème avec GIT?
 
 Enfin le problème est résolu!
+
+Essayons d'ajouter un autre fichier après avoir commité 
